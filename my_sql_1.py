@@ -1,0 +1,7 @@
+# host = "your_host"
+user = "your_user"
+password = "your_password"
+db_name = "your_db_name"
+localhost = "your_host"
+host ="85.140.1.54"
+# host = "https://hidemy.name/ru/proxy-list/"
